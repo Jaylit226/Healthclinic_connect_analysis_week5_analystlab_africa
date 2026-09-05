@@ -1,0 +1,9 @@
+HEALTHCONNECT WEEK 5 – INITIAL RECOMMENDATIONS
+==================================================
+
+1. Review maximum booking windows for non-urgent and follow-up appointments.
+2. Create a simple high-risk flag for patients with ≥2 previous no-shows.
+3. Keep SMS as the primary reminder channel; test WhatsApp for younger groups.
+4. Share the five KPIs with Project Management and Data Science tracks.
+5. Monitor Sunday appointments more closely and test earlier reminders.
+6. In Week 6 support Data Science with the prioritised feature list from this analysis.

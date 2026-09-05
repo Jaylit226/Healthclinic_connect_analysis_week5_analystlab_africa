@@ -1,0 +1,31 @@
+HEALTHCONNECT WEEK 5 – KPI DEFINITIONS & CALCULATIONS
+============================================================
+
+KPI 1: Overall No-Show Rate
+  Formula : No-Show appointments / Total appointments
+  Value   : 48.5%  (2,423 / 5,000)
+  Why it matters: Primary indicator of the attendance problem.
+
+KPI 2: Attendance Rate
+  Formula : Attended appointments / Total appointments
+  Value   : 46.3%  (2,314 / 5,000)
+  Why it matters: Measures successful use of clinic capacity.
+
+KPI 3: Long-Lead No-Show Rate
+  Formula : No-show rate where booking_lead_days > 45
+  Value   : 67.7%
+  Why it matters: Shows the extra risk created by very early booking.
+
+KPI 4: Reminder Effectiveness Gap
+  Formula : No-show rate (No reminder) – No-show rate (Reminder sent)
+  Value   : 4.0%  (51.4% vs 47.4%)
+  Why it matters: Quantifies the current benefit of the reminder process.
+
+KPI 5: High-Risk Patient No-Show Rate
+  Formula : No-show rate among patients with previous_no_shows ≥ 2
+  Value   : 61.0%
+  Why it matters: Identifies the patient segment that needs priority attention.
+
+Supporting Metric – Reminder Coverage
+  Value   : 72.7%
+  Note    : Percentage of appointments that received at least one reminder.

@@ -1,0 +1,20 @@
+HEALTHCONNECT WEEK 5 – BUSINESS INSIGHTS
+==================================================
+
+1. Almost one in every two booked appointments is lost (48.5% no-show rate).
+   This is the central operational problem for HealthConnect.
+
+2. Booking lead time is the strongest pattern. Appointments booked 46–60 days
+   ahead have a 67.7% no-show rate versus only 27.8% for those booked within 7 days.
+
+3. Previous no-show history is a clear risk signal. Patients with 2 or more
+   previous no-shows have a 61.0% no-show rate.
+
+4. Reminders help, but the improvement is modest (~4 percentage points).
+   SMS currently performs best among the channels available in the data.
+
+5. Follow-up appointments carry the highest no-show risk (51.2%) of all types.
+
+6. Sundays show a slightly elevated no-show rate compared with most weekdays.
+
+7. Distance to clinic has a mild positive association with no-shows.
