@@ -1,0 +1,36 @@
+HEALTHCONNECT WEEK 5 – EDA VISUALS SUMMARY
+==========================================
+
+This folder contains the exploratory analysis charts and supporting tables.
+
+CHARTS
+------
+01_Outcome_Distribution.png
+   Overall split of Attended / No-Show / Cancelled.
+
+02_NoShow_by_LeadTime.png
+   Strongest pattern: no-show rate rises sharply with longer booking windows.
+
+03_NoShow_by_PreviousHistory.png
+   Clear risk increase as previous no-show count rises.
+
+04_NoShow_by_AppointmentType.png
+   Follow-ups show the highest no-show rate.
+
+05_NoShow_by_Reminder.png
+   Comparison of no-show rate with and without a reminder.
+
+06_NoShow_by_AgeGroup.png
+   No-show rates across age bands.
+
+07_NoShow_by_DayOfWeek.png
+   Day-of-week pattern (Sundays slightly elevated).
+
+TABLES (CSV)
+------------
+Table_LeadTime_NoShow.csv
+Table_PreviousNoShow_History.csv
+Table_AppointmentType_NoShow.csv
+Table_AgeGroup_NoShow.csv
+
+These files support the Excel dashboard and the Word / PowerPoint reports.
