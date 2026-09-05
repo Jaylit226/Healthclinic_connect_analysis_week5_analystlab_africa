@@ -1,0 +1,27 @@
+HEALTHCONNECT WEEK 5 – DATA PREPARATION SUMMARY
+=======================================================
+
+Original file: HealthConnect Appointment Dataset (provided)
+Cleaned file created: HealthConnect_Appointments_Cleaned.csv
+(Original file was NOT overwritten)
+
+ROWS: 5,000
+COLUMNS: 18 original + 5 derived
+
+MISSING VALUES FOUND:
+  - reminder_channel : 1,366 (27.3%) → filled with 'None'
+  - distance_to_clinic_km : 90 (1.8%) → filled with median
+  - waiting_time_minutes : 60 (1.2%) → filled with median
+
+DUPLICATES: None found (appointment_id unique)
+
+DATA TYPE NOTES:
+  - booking_date & appointment_date stored as strings (kept as-is for analysis)
+  - age, lead days, previous counts are integers
+  - distance & waiting time are floats
+
+DERIVED COLUMNS ADDED FOR ANALYSIS:
+  - is_noshow (0/1)
+  - is_attended (0/1)
+  - lead_bin (booking lead time groups)
+  - distance_bin
